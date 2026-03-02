@@ -2,7 +2,7 @@
 
 ## Overview
 This project analyzes the Brazilian Olist e-commerce dataset to evaluate revenue performance, customer behavior, and product category trends.
-It demonstrates end-to-end data analysis and business intelligence workflow using **SQL**, **Python (pandas)**, and **Tableau**.
+It demonstrates end-to-end data analysis and business intelligence workflow using **SQL**, **Python (pandas)**, and **Data Visualization**.
 
 ## Key findings:
 
@@ -31,7 +31,7 @@ Overall, the business shows strong category concentration and seasonal demand sp
 ## Tools & Technologies
 - **SQL** (SQLite) – data extraction and joins  
 - **Python** (pandas, matplotlib) – data cleaning and analysis  
-- **Tableau / Power BI** – dashboard and visualization  
+- **Matplotlib** – data visualization  
 - **Git/GitHub** – version control
 
 ---
