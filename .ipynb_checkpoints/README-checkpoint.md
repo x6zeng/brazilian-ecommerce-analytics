@@ -85,7 +85,7 @@ Based on the analysis:
 
 1. Customer retention should be the top priority given the low repeat purchase rate (3.12%).
 2. Marketing efforts should be optimized around Q4 when demand is highest.
-3. Inventory and promotions should focus on top-performing categories (beleza_saude, relogios_presentes, cama_mesa_banho).
+3. Inventory and promotions should focus on top-performing categories (beauty & health, watches & gifts, home textiles).
 4. Further analysis could explore customer segmentation and cohort retention.
 
 This analysis demonstrates how data-driven insights can guide e-commerce growth strategy.
