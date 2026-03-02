@@ -10,9 +10,9 @@ It demonstrates end-to-end data analysis and business intelligence workflow usin
 - Average Order Value (AOV) is \$137.75, suggesting mid-to-high transaction value per purchase.
 - Repeat purchase rate is 3.12%, revealing low customer retention and a major opportunity for lifecycle marketing.
 - Top revenue-driving categories are:
-  - beleza_saude (\$1.26M)
-  - relogios_presentes (\$1.21M)
-  - cama_mesa_banho (\$1.04M)
+  - Beauty & Health (\$1.26M)
+  - Watches & Gifts (\$1.21M)
+  - Home Textiles (\$1.04M)
 
 Overall, the business shows strong category concentration and seasonal demand spikes but significant room for improvement in customer retention.
 
@@ -41,7 +41,6 @@ Overall, the business shows strong category concentration and seasonal demand sp
 - **Customer Insights** – new vs. returning customers, repeat purchase rate  
 - **Product Performance** – top categories and top-selling products  
 - **Average Order Value (AOV)** – key metric for business performance  
-- **Optional Bonus:** Cohort retention analysis, geographic insights
 
 ---
 
@@ -58,9 +57,9 @@ Overall, the business shows strong category concentration and seasonal demand sp
 
 **Product Performance**
 - Top-performing categories:
-  1. beleza_saude — \$1.26M
-  2. relogios_presentes — \$1.21M
-  3. cama_mesa_banho — \$1.04M
+  1. Beauty & Health — \$1.26M
+  2. Watches & Gifts — \$1.21M
+  3. Home Textiles — \$1.04M
 - Revenue is heavily concentrated in lifestyle and home-related products.
 
 **Business Opportunities**
